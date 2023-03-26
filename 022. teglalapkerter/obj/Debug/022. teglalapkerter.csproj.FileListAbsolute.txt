@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\022. teglalapkerter\022. teglalapkerter\bin\Debug\_022.teglalapkerter.exe.config
+C:\Users\gratt\source\repos\022. teglalapkerter\022. teglalapkerter\bin\Debug\_022.teglalapkerter.exe
+C:\Users\gratt\source\repos\022. teglalapkerter\022. teglalapkerter\bin\Debug\_022.teglalapkerter.pdb
+C:\Users\gratt\source\repos\022. teglalapkerter\022. teglalapkerter\obj\Debug\022. teglalapkerter.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\022. teglalapkerter\022. teglalapkerter\obj\Debug\_022.teglalapkerter.exe
+C:\Users\gratt\source\repos\022. teglalapkerter\022. teglalapkerter\obj\Debug\_022.teglalapkerter.pdb
